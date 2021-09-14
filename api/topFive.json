@@ -1,31 +1,31 @@
 [
     {
         "id" : 1,
-        "img": "https://github.com/hiteshpatre1920/CgExamNotice/blob/master/gallery/topFive/1.jpg",
+        "img": "https://hiteshpatre1920.github.io/CgExamNotice/gallery/topFive/1.jpg",
         "details": "Image 1"
         
     },
     {
         "id" : 2,
-        "img": "https://github.com/hiteshpatre1920/CgExamNotice/blob/master/gallery/topFive/2.jpg",
+        "img": "https://hiteshpatre1920.github.io/CgExamNotice/gallery/topFive/2.jpg",
         "details": "Image 2"
         
     },
     {
         "id" : 3,
-        "img": "https://github.com/hiteshpatre1920/CgExamNotice/blob/master/gallery/topFive/3.jpeg",
+        "img": "https://hiteshpatre1920.github.io/CgExamNotice/gallery/topFive/3.jpeg",
         "details": "Image 3"
         
     },
     {
         "id" : 4,
-        "img": "https://github.com/hiteshpatre1920/CgExamNotice/blob/master/gallery/topFive/4.jpeg",
+        "img": "https://hiteshpatre1920.github.io/CgExamNotice/gallery/topFive/4.jpeg",
         "details": "Image 4"
         
     },
     {
         "id" : 5,
-        "img": "https://github.com/hiteshpatre1920/CgExamNotice/blob/master/gallery/topFive/5.jpg",
+        "img": "https://hiteshpatre1920.github.io/CgExamNotice/gallery/topFive/5.jpg",
         "details": "Image 5"
         
     }
