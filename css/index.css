@@ -51,10 +51,12 @@ body{
 
 #content{
     background-color: white;
+    padding-bottom: 10px
 }
 
 #sidebar{
     background-color: #e3592b;
+    padding-bottom: 10px;
 }
 
 #sidebar ul{
