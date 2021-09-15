@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "examName": "Hitesh PAtre",
+        "examNameLink": 22
+    },
+    {
+        "id" : 2,
+        "examName": "Vivek Sogarwal",
+        "examNameLink": 22
+    },
+    {
+        "id" : 3,
+        "examName": "Raja Sing",
+        "examNameLink": 22
+    },
+    {
+        "id" : 4,
+        "examName": "Kumari Neah",
+        "examNameLink": 22
+    },
+    {
+        "id" : 5,
+        "examName": "Vikas Kumar",
+        "examNameLink": 22
+    },
+    {
+        "id" : 6,
+        "examName": "Gaurav Jha",
+        "examNameLink": 22
+    },
+    {
+        "id" : 7,
+        "examName": "Akash Kumar",
+        "examNameLink": 22
+    }
+]
