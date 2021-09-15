@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "examName": "Result 1",
+        "examNameLink": 22
+    },
+    {
+        "id" : 2,
+        "examName": "Result 2",
+        "examNameLink": 22
+    },
+    {
+        "id" : 3,
+        "examName": "Result 3",
+        "examNameLink": 22
+    },
+    {
+        "id" : 4,
+        "examName": "Result 4",
+        "examNameLink": 22
+    },
+    {
+        "id" : 5,
+        "examName": "Result 5",
+        "examNameLink": 22
+    },
+    {
+        "id" : 6,
+        "examName": "Result 6",
+        "examNameLink": 22
+    },
+    {
+        "id" : 7,
+        "examName": "Result 7",
+        "examNameLink": 22
+    }
+]
